@@ -1,0 +1,81 @@
+body{
+  margin: 0px;
+  font-family: 'KoHo', sans-serif;
+}
+.container{
+  width: 100%;
+}
+.header{
+  padding: 10px;
+  font-size: 24px;
+  background-color: #1d7392;
+
+}
+.contenido{
+width: 69%;
+float: left;
+padding-left:10px ;
+}
+ .header{
+color: white;
+}
+
+.inf{
+width: 29%;
+float: right;
+background-color: #e2e4e5;
+padding-left:10px ;
+}
+
+li{
+     list-style:none
+}
+i{
+    color:#1d7392;
+    padding-right: 5px;
+}
+hr{
+     background-color: #1d7392;
+     height: 6px;
+     border-radius: 5px;
+}
+h2{
+    color: #1d7392;
+}
+
+
+.inf .skills hr{
+     height: 18px;
+    margin-left: 0px;
+    border-radius: 0px 10px 10px 0px ;
+}
+.sk1{
+    
+    width: 80%;
+}
+.sk2{
+    
+    width: 30%;
+}
+.sk3{
+    
+    width: 50%;
+}
+.sk4{
+    
+    width: 60%;
+}
+.sk5{
+    
+    width: 70%;
+}
+.skills{
+
+    margin-left: -30px;
+}
+
+
+
+
+
+
